@@ -1,0 +1,55 @@
+# This file contains the id's of all extensions I use
+
+To get a list of extensions you can execute the following command: `code --list-extensions`
+
+- alexcvzz.vscode-sqlite
+- bmewburn.vscode-intelephense-client
+- burkeholland.simple-react-snippets
+- ChakrounAnas.turbo-console-log
+- chrmarti.regex
+- cschlosser.doxdocgen
+- dbaeumer.vscode-eslint
+- DEVSENSE.composer-php-vscode
+- DEVSENSE.intelli-php-vscode
+- DEVSENSE.phptools-vscode
+- DEVSENSE.profiler-php-vscode
+- dsznajder.es7-react-js-snippets
+- eamodio.gitlens
+- EliverLara.andromeda
+- emilast.LogFileHighlighter
+- esbenp.prettier-vscode
+- formulahendry.auto-rename-tag
+- formulahendry.code-runner
+- GitHub.copilot
+- GitHub.copilot-chat
+- Gruntfuggly.todo-tree
+- humy2833.ftp-simple
+- illixion.vscode-vibrancy-continued
+- mechatroner.rainbow-csv
+- MikeyLau.typewriter-auto-scroll
+- ms-azuretools.vscode-docker
+- ms-dotnettools.csdevkit
+- ms-dotnettools.csharp
+- ms-dotnettools.vscode-dotnet-runtime
+- ms-dotnettools.vscodeintellicode-csharp
+- ms-python.autopep8
+- ms-python.python
+- ms-python.vscode-pylance
+- ms-toolsai.jupyter
+- ms-toolsai.jupyter-keymap
+- ms-toolsai.jupyter-renderers
+- ms-toolsai.vscode-jupyter-cell-tags
+- ms-toolsai.vscode-jupyter-slideshow
+- ms-vsliveshare.vsliveshare
+- msjsdiag.vscode-react-native
+- pnp.polacode
+- rifi2k.format-html-in-php
+- ritwickdey.LiveServer
+- shd101wyy.markdown-preview-enhanced
+- usernamehw.errorlens
+- vscode-icons-team.vscode-icons
+- vscodevim.vim
+- Vue.volar
+- wayou.vscode-todo-highlight
+- wisetime.branch-in-window-title
+- yandeu.five-server
